@@ -2,5 +2,4 @@
 county fl effective date parsing example before optimization
 
 
-THIS IS THE FLORIDA COUNTY EFFECTIVE DATE PARSE PYTHON SCRIPT WITH PLAYWRIGHT AND BEAUTIFUL SOUP EXPORTING WITH PYTHON NATIVE CSV LIBRARIES. SCRAPING WITH RE WITH 
-NATIVE PYTHON.
+this is the florida county effective date parse python script with playwright for click through actions. scraping with beautiful soup and re exporting with python's native csv library. 
